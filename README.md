@@ -35,6 +35,13 @@ npm run dev
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui)
 
 
+
+## Awesome
+
+- [ryanatkn/awesome-svelte-resources](https://github.com/ryanatkn/awesome-svelte-resources)
+- [CalvinWalzel/awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte)
+
+
 ## 参考
 - [GitHub-svelte](https://github.com/sveltejs/svelte)
 - [svelte.dev](https://svelte.dev/) 
