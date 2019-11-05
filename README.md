@@ -9,8 +9,29 @@ Svelte knowledge
 - Svelte 没有 virtual DOM，它会被编译成最小的 “vanilla” JavaScript，并且看起来比其他库性能更好
 
 
+## install
+
+```
+git clone https://github.com/sveltejs/svelte.git
+cd svelte
+npm install
+
+npm run dev
+npm run build
+
+# or
+
+
+npx degit sveltejs/template my-svelte-project
+cd my-svelte-project
+
+npm install
+npm run dev
+```
+
 
 
 ## 参考
 - [GitHub-svelte](https://github.com/sveltejs/svelte)
 - [svelte.dev](https://svelte.dev/) 
+- [examples](https://svelte.dev/examples#hello-world)
